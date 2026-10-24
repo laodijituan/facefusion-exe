@@ -1,0 +1,11 @@
+/home/user/facefusion-exe-builder/.venv/lib/python3.13/site-packages/pydub/utils.py:300: SyntaxWarning: invalid escape sequence '\('
+  m = re.match('([su]([0-9]{1,2})p?) \(([0-9]{1,2}) bit\)$', token)
+/home/user/facefusion-exe-builder/.venv/lib/python3.13/site-packages/pydub/utils.py:301: SyntaxWarning: invalid escape sequence '\('
+  m2 = re.match('([su]([0-9]{1,2})p?)( \(default\))?$', token)
+/home/user/facefusion-exe-builder/.venv/lib/python3.13/site-packages/pydub/utils.py:310: SyntaxWarning: invalid escape sequence '\('
+  elif re.match('(flt)p?( \(default\))?$', token):
+/home/user/facefusion-exe-builder/.venv/lib/python3.13/site-packages/pydub/utils.py:314: SyntaxWarning: invalid escape sequence '\('
+  elif re.match('(dbl)p?( \(default\))?$', token):
+[spec] source   = /home/user/ff/facefusion
+[spec] variant  = cpu
+[spec] cuda dir = -

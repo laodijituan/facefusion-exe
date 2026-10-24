@@ -1,0 +1,5 @@
+# Build-time pins for the portable Windows EXE
+# (runtime pins live in the FaceFusion requirements.txt that gets checked out)
+pyinstaller==6.22.3
+wheel
+setuptools
